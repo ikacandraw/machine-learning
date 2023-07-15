@@ -1,0 +1,63 @@
+Model2,Akurasi2,Presisi2,Sensitiviti2,Specificiti2,F1score2,AUC2
+Discriminant Analysis,0.99,1,0.98,1,0.98989899,1
+Logistic Regression,1,1,1,1,1,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.9875,0.975609756,1,0.975,0.987654321,0.99955
+SVM Linear,1,1,1,1,1,1
+Neural Network,1,1,1,1,1,0.99995
+Model2,Akurasi2,Presisi2,Sensitiviti2,Specificiti2,F1score2,AUC2
+Discriminant Analysis,0.94,0.945652174,0.988636364,0.583333333,0.966666667,0.993371212
+Logistic Regression,0.97,0.988505747,0.977272727,0.916666667,0.982857143,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.99,0.991758242,0.997237569,0.921052632,0.994490358,0.998836871
+SVM Linear,0.98,0.988636364,0.988636364,0.916666667,0.988636364,0.999418436
+Neural Network,0.99,0.988764045,1,0.916666667,0.994350282,1
+Model2,Akurasi2,Presisi2,Sensitiviti2,Specificiti2,F1score2,AUC2
+Discriminant Analysis,0.99,0.98989899,1,0.5,0.994923858,1
+Logistic Regression,1,1,1,1,1,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,1,1,1,1,1,1
+SVM Linear,1,1,1,1,1,1
+Neural Network,1,1,1,1,1,1
+Model2,Akurasi2,Presisi2,Sensitiviti2,Specificiti2,F1score2,AUC2
+Discriminant Analysis,0.99,0.980392157,1,0.98,0.99009901,0.9996
+Logistic Regression,0.99,0.980392157,1,0.98,0.99009901,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.98,0.975247525,0.985,0.975,0.980099502,0.9993
+SVM Linear,0.98,0.961538462,1,0.96,0.980392157,0.9998
+Neural Network,0.99,0.980392157,1,0.98,0.99009901,1
+Model2,Akurasi2,Presisi2,Sensitiviti2,Specificiti2,F1score2,AUC2
+Discriminant Analysis,0.89,0.884210526,1,0.3125,0.938547486,0.989583333
+Logistic Regression,1,1,1,1,1,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.9875,0.991825613,0.994535519,0.911764706,0.993178718,0.99855352
+SVM Linear,0.96,0.954545455,1,0.75,0.976744186,0.99983928
+Neural Network,0.96,0.954545455,1,0.75,0.976744186,1
+Model2,Akurasi2,Presisi2,Sensitiviti2,Specificiti2,F1score2,AUC2
+Discriminant Analysis,0.98,0.989795918,0.989795918,0.5,0.989795918,0.994897959
+Logistic Regression,0.99,0.98989899,1,0.5,0.994923858,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.9975,0.997455471,1,0.875,0.998726115,1
+SVM Linear,0.98,0.98,1,0,0.98989899,1
+Neural Network,0.99,0.98989899,1,0.5,0.994923858,1
+Model2,Akurasi2,Presisi2,Sensitiviti2,Specificiti2,F1score2,AUC2
+Discriminant Analysis,0.99,0.980392157,1,0.98,0.99009901,1
+Logistic Regression,0.99,0.980392157,1,0.98,0.99009901,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.9925,0.990049751,0.995,0.99,0.992518703,0.999875
+SVM Linear,0.99,1,0.98,1,0.98989899,0.99995
+Neural Network,0.99,0.980392157,1,0.98,0.99009901,1
+Model2,Akurasi2,Presisi2,Sensitiviti2,Specificiti2,F1score2,AUC2
+Discriminant Analysis,0.97,0.968085106,1,0.666666667,0.983783784,1
+Logistic Regression,0.99,0.989130435,1,0.888888889,0.994535519,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.9925,0.991712707,1,0.926829268,0.995839112,0.999796182
+SVM Linear,0.99,0.989130435,1,0.888888889,0.994535519,1
+Neural Network,0.99,0.989130435,1,0.888888889,0.994535519,1
+Model2,Akurasi2,Presisi2,Sensitiviti2,Specificiti2,F1score2,AUC2
+Discriminant Analysis,0.99,0.99,1,0,0.994974874,0.98989899
+Logistic Regression,0.99,0.99,1,0,0.994974874,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.9975,0.99744898,1,0.888888889,0.998722861,1
+SVM Linear,0.99,0.99,1,0,0.994974874,0.999147485
+Neural Network,1,1,1,1,1,1

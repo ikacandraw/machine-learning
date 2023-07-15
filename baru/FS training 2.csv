@@ -1,0 +1,48 @@
+MB11,,,,,,
+featuremodel,Akurasifs,Presisifs,Sensitivitifs,Specificitifs,F1scorefs,AUCfs1
+Logistic Regression,1,1,1,1,1,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.985,0.98019802,0.99,0.98,0.985074627,0.999325
+SVM Linear,0.975,0.952380952,1,0.95,0.975609756,1
+MB12,,,,,,
+featuremodel,Akurasifs,Presisifs,Sensitivitifs,Specificitifs,F1scorefs,AUCfs1
+Logistic Regression,1,1,1,1,1,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.9925,0.994490358,0.997237569,0.947368421,0.995862069,0.999273044
+SVM Linear,0.985,0.983695652,1,0.842105263,0.991780822,0.997159091
+MB13,,,,,,
+featuremodel,Akurasifs,Presisifs,Sensitivitifs,Specificitifs,F1scorefs,AUCfs1
+Logistic Regression,1,1,1,1,1,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,1,1,1,1,1,1
+SVM Linear,0.9825,0.98245614,1,0.125,0.991150442,1
+MB21,,,,,,
+featuremodel,Akurasifs,Presisifs,Sensitivitifs,Specificitifs,F1scorefs,AUCfs1
+Logistic Regression,1,1,1,1,1,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.9675,0.979487179,0.955,0.98,0.967088608,0.997125
+SVM Linear,0.9775,0.98974359,0.965,0.99,0.97721519,1
+MB22,,,,,,
+featuremodel,Akurasifs,Presisifs,Sensitivitifs,Specificitifs,F1scorefs,AUCfs1
+Logistic Regression,1,1,1,1,1,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.9875,1,0.986338798,1,0.993122421,0.99863388
+SVM Linear,0.945,0.943298969,1,0.352941176,0.970822281,0.99702381
+MB31,,,,,,
+featuremodel,Akurasifs,Presisifs,Sensitivitifs,Specificitifs,F1scorefs,AUCfs1
+Logistic Regression,1,1,1,1,1,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.9925,0.990049751,0.995,0.99,0.992518703,0.999825
+SVM Linear,0.985,0.975490196,0.995,0.975,0.985148515,0.9996
+MB32,,,,,,
+featuremodel,Akurasifs,Presisifs,Sensitivitifs,Specificitifs,F1scorefs,AUCfs1
+Logistic Regression,1,1,1,1,1,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.995,0.994459834,1,0.951219512,0.997222222,1
+SVM Linear,0.9725,0.97027027,1,0.731707317,0.984910837,1
+MB33,,,,,,
+featuremodel,Akurasifs,Presisifs,Sensitivitifs,Specificitifs,F1scorefs,AUCfs1
+Logistic Regression,1,1,1,1,1,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.9925,0.992385787,1,0.666666667,0.996178344,1
+SVM Linear,0.9925,0.992385787,1,0.666666667,0.996178344,1

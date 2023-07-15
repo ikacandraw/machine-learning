@@ -1,0 +1,48 @@
+MB11,,,,,,
+featuremodel,Akurasifs2,Presisifs2,Sensitivitifs2,Specificitifs2,F1scorefs2,AUCfs2
+Logistic Regression,1,1,1,1,1,1
+Random Forest,0.91,0.936170213,0.88,0.94,0.907216495,0.9638
+SVM Radial,0.96,0.942307692,0.98,0.94,0.960784314,0.996
+SVM Linear,1,1,1,1,1,1
+MB12,,,,,,
+featuremodel,Akurasifs2,Presisifs2,Sensitivitifs2,Specificitifs2,F1scorefs2,AUCfs2
+Logistic Regression,0.97,0.988505747,0.977272727,0.916666667,0.982857143,0.998106061
+Random Forest,0.89,0.913978495,0.965909091,0.333333333,0.939226519,0.946969697
+SVM Radial,0.94,0.945652174,0.988636364,0.583333333,0.966666667,0.989583333
+SVM Linear,0.97,0.97752809,0.988636364,0.833333333,0.983050847,0.997159091
+MB13,,,,,,
+featuremodel,Akurasifs2,Presisifs2,Sensitivitifs2,Specificitifs2,F1scorefs2,AUCfs2
+Logistic Regression,0.99,0.98989899,1,0.5,0.994923858,0.75
+Random Forest,0.98,0.98,1,0,0.98989899,0.969387755
+SVM Radial,1,1,1,1,1,1
+SVM Linear,0.98,0.98,1,0,0.98989899,1
+MB21,,,,,,
+featuremodel,Akurasifs2,Presisifs2,Sensitivitifs2,Specificitifs2,F1scorefs2,AUCfs2
+Logistic Regression,0.99,0.980392157,1,0.98,0.99009901,1
+Random Forest,0.85,0.807017544,0.92,0.78,0.859813084,0.9642
+SVM Radial,0.97,0.943396226,1,0.94,0.970873786,0.9988
+MB22,,,,,,
+SVM Linear,0.99,0.980392157,1,0.98,0.99009901,1
+featuremodel,Akurasifs2,Presisifs2,Sensitivitifs2,Specificitifs2,F1scorefs2,AUCfs2
+Logistic Regression,1,1,1,1,1,1
+Random Forest,0.84,0.846938776,0.988095238,0.0625,0.912087912,0.935639881
+SVM Radial,0.97,0.976470588,0.988095238,0.875,0.982248521,0.99702381
+SVM Linear,0.88,0.875,1,0.25,0.933333333,0.99702381
+MB31,,,,,,
+featuremodel,Akurasifs2,Presisifs2,Sensitivitifs2,Specificitifs2,F1scorefs2,AUCfs2
+Logistic Regression,0.99,0.980392157,1,0.98,0.99009901,0.99
+Random Forest,0.92,0.9375,0.9,0.94,0.918367347,0.9884
+SVM Radial,0.97,0.960784314,0.98,0.96,0.97029703,0.9984
+SVM Linear,0.98,0.98,0.98,0.98,0.98,0.9996
+MB32,,,,,,
+featuremodel,Akurasifs2,Presisifs2,Sensitivitifs2,Specificitifs2,F1scorefs2,AUCfs2
+Logistic Regression,1,1,1,1,1,1
+Random Forest,0.98,0.978494624,1,0.777777778,0.989130435,0.996336996
+SVM Radial,0.99,0.989130435,1,0.888888889,0.994535519,1
+SVM Linear,0.98,0.978494624,1,0.777777778,0.989130435,1
+MB33,,,,,,
+featuremodel,Akurasifs2,Presisifs2,Sensitivitifs2,Specificitifs2,F1scorefs2,AUCfs2
+Logistic Regression,1,1,1,1,1,1
+Random Forest,0.98,0.98989899,0.98989899,0,0.98989899,0.97979798
+SVM Radial,0.99,0.99,1,0,0.994974874,1
+SVM Linear,0.99,0.99,1,0,0.994974874,1

@@ -1,0 +1,5 @@
+featuremodel,Akurasifs,Presisifs,Sensitivitifs,Specificitifs,F1scorefs,AUCfs1
+Logistic Regression,1,1,1,1,0.9949238578680203,1
+Random Forest,1,1,1,1,1,1
+SVM Radial,0.41,1,0.3979591836734694,1,0.5693430656934306,0.9327168367346939
+SVM Linear,0.98,0.98,1,0,0.98989898989899,0.9948979591836735
